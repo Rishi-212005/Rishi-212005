@@ -69,7 +69,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi-212005&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&count_private=true&show_icons=true&rank_icon=github" width="45%" />
 
 </div>
 
