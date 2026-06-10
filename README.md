@@ -64,7 +64,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" />
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=Rishi-212005&theme=dark&hide_border=true" width="49%" />
 
 <br/>
