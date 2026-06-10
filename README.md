@@ -1,12 +1,15 @@
 <div align="center">
 
-# ⚡ Sai Rishi Kumar Vedi
+# Hi, I'm Sai Rishi Kumar Vedi 👋
 ### Full-Stack Developer · AI/ML Intern at Saral Vidhya Pvt. Ltd. · Problem Solver
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://rishi-212005.github.io/Personel-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-vedi-37b954351)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairishikumar.2005@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lucky_rishi_42?igsh=MXIxbmF1bzV2YTB3bA==)
+
+<!-- Displaying your actual verified contributions count -->
+[![GitHub Contributions](https://img.shields.io/badge/GitHub_Contributions-311_Total-2k--green?style=for-the-badge&logo=github)](https://github.com/Rishi-212005)
 
 ---
 
@@ -51,7 +54,7 @@
   <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="RHF" />
 </p>
 
-### 🗄️ Databases & Core Backend
+### 🗄️ Databases, Cloud & Infrastructure
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
@@ -126,14 +129,11 @@
 
 <div align="center">
 
-<!-- Remove the hide=contribs parameter once you merge feature branches to default branch -->
 <img src="https://github-readme-stats.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&count_private=true&show_icons=true" width="48%" />
 &nbsp;
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-212005&theme=react-dark&hide_border=true&area=true" width="48%" />
 
 </div>
-
-> ℹ️ **Tip on Commit Counts**: If you are pushing commits to custom development branches (like `rishi_backend`), GitHub will not display them on the stats card or contribution graph until they are merged into your repository's default branch (like `main` or `master`).
 
 ---
 
