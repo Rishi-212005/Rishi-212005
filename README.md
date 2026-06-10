@@ -65,7 +65,7 @@
 <div align="center">
 
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Rishi-212005&theme=dark&hide_border=true" width="49%" />
+
 
 <br/>
 
