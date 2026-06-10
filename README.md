@@ -10,7 +10,7 @@
 
 ---
 
-*"Converting complex real-world workflows into clean, structured, and production-ready applications."*
+"Converting complex real-world workflows into clean, structured, and production-ready applications."
 
 </div>
 
@@ -19,7 +19,7 @@
 ## 💼 Work & Internship Updates
 
 ### 🚀 AI/ML Intern — Saral Vidhya Pvt. Ltd., Hyderabad
-*Working on backend architecture, database optimizations, and intelligent document data pipelines:*
+*Currently working on backend architecture, database optimizations, and intelligent document data pipelines:*
 - **Background OCR Pipelines**: Designed asynchronous background workers to parse and OCR multi-page PDF/ZIP archives (images) using Google Cloud Vision and natural sorting pipelines.
 - **RESTful APIs**: Developed robust endpoints in FastAPI/SQLAlchemy for curriculum uploads, answer keys parsing, and metadata synchronization.
 - **Drive Integrations**: Designed dynamic nested file structures and permission schemas in Google Drive synced with local storage backends.
@@ -53,86 +53,91 @@
 
 ### 🗄️ Databases, Cloud & Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive API" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🔗 [INTERNCONNECT — Campus Internship & Placement Platform](https://github.com/Rishi-212005/InternConnect-Campus-Portal)
-> A complete campus placement portal simplifying employer listings, student applications, and admin tracking.
-- **Frontend:** React, TypeScript, Tailwind CSS, React Hook Form
-- **Backend/Database:** Supabase, PostgreSQL
-- **Key Features:** User roles, application status tracking, secure file uploads
-
-### 🎓 [Academic Authenticator — College Marks Memo Validator](https://github.com/Rishi-212005/ACADEMIC-AUTHENTICATOR)
-> A secure background verification service that allows companies and employers to instantly check academic marks memos.
-- **Tech Stack:** PHP, FastAPI, MySQL / PostgreSQL
-- **Key Features:** File hashing, automated verification matching, and custom administrative dashboard
-
-### 🤖 [Nirnayah Backend — AI-Assisted Booklet Evaluation](https://github.com/sarallabs/nirnayah-backend)
-> A comprehensive production backend hosting 100+ endpoints, role-based access control, Google Drive integrations, and page-wise OCR pipelines.
-- **Tech Stack:** FastAPI, SQLAlchemy, Alembic, PostgreSQL, PyPDF, Docker
-- **Key Features:** Google Cloud Vision OCR, image-fallback pipelines, natural page sorting, and custom spreadsheet review sheets
-
----
-
-## 📂 Repository Index (All 18 Repositories)
-
-<details>
-<summary><b>Click to expand the full repository directory 📄</b></summary>
-<br/>
-
-| Repository | Language | Description | Link |
-| :--- | :--- | :--- | :--- |
-| **InternConnect-Campus-Portal** | TypeScript | Campus Placement & Internship Portal | [View Repo](https://github.com/Rishi-212005/InternConnect-Campus-Portal) |
-| **ACADEMIC-AUTHENTICATOR** | PHP | Marks Memo verification engine | [View Repo](https://github.com/Rishi-212005/ACADEMIC-AUTHENTICATOR) |
-| **SaralVidhya_website** | TypeScript | Corporate website for Saral Vidhya | [View Repo](https://github.com/Rishi-212005/SaralVidhya_website) |
-| **AI-Portfolio-Maker** | TypeScript | Automatic resume & portfolio compiler | [View Repo](https://github.com/Rishi-212005/AI-Portfolio-Maker) |
-| **AI-POWERED-SHOPKEEPER-VENDOR-MANAGEMENT** | PHP | Supplier and shop inventory suite | [View Repo](https://github.com/Rishi-212005/AI-POWERED-SHOPKEEPER-VENDOR-MANAGEMENT-SYSTEM) |
-| **ML-Smart-Price-Prediction** | Python | Price prediction model using machine learning | [View Repo](https://github.com/Rishi-212005/ML-Smart-Price-Prediction) |
-| **JNTUA-STUDENTS-CONNECT** | TypeScript | Portal for student updates and syllabus | [View Repo](https://github.com/Rishi-212005/JNTUA-STUDENTS-CONNECT) |
-| **Elective-system-** | TypeScript | Student course elective registration system | [View Repo](https://github.com/Rishi-212005/Elective-system-) |
-| **open-elective-management-system** | TypeScript | College course selection portal | [View Repo](https://github.com/Rishi-212005/open-elective-management-system) |
-| **ENCODING-DECODING-MANAGEMENT-SYSTEM** | PHP | Data security and encryption console | [View Repo](https://github.com/Rishi-212005/ENCODING-DECODING-MANAGEMENT-SYSTEM) |
-| **Library-Seat-Management-System** | PHP | Library slot booking and layout management | [View Repo](https://github.com/Rishi-212005/Library-Seat-Management-System) |
-| **NGO-PROJECT** | TypeScript | Contribution platform for NGOs | [View Repo](https://github.com/Rishi-212005/NGO-PROJECT) |
-| **Personel-Portfolio** | TypeScript | Personal portfolio website assets | [View Repo](https://github.com/Rishi-212005/Personel-Portfolio) |
-| **TimeLine-GPT** | CSS | Generative historical timeline visualizations | [View Repo](https://github.com/Rishi-212005/TimeLine-GPT) |
-| **SaralLabs_task_round_2** | Jupyter Notebook | Data science task submissions | [View Repo](https://github.com/Rishi-212005/SaralLabs_task_round_2) |
-| **hackthon** | TypeScript | Hackathon prototype submissions | [View Repo](https://github.com/Rishi-212005/hackthon) |
-| **INTERNSHIP_TASK** | JavaScript | Assorted training tasks and worksheets | [View Repo](https://github.com/Rishi-212005/INTERNSHIP_TASK) |
-| **Rishi-212005** | Markdown | Profile README repository config | [View Repo](https://github.com/Rishi-212005/Rishi-212005) |
-
-</details>
-
----
-
-## 📊 Verified Contribution Metrics (2026)
-
-*Since the standard public stats card is unable to count private commits/PRs in corporate repositories, these metrics reflect actual overall development activity:*
-
+### 🤖 AI / Data Science
 <p align="left">
-  <img src="https://img.shields.io/badge/Contributions%20This%20Year-311-green?style=for-the-badge&logo=github&logoColor=white" alt="Contributions 2026" />
-  <img src="https://img.shields.io/badge/Merged%20PRs-5%2B-blue?style=for-the-badge&logo=github-actions&logoColor=white" alt="Merged PRs" />
-  <img src="https://img.shields.io/badge/Total%20Stars-16-yellow?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Total Stars" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## 🚀 Featured Projects (Top 5)
+
+### 1. 🔗 [InternConnect-Campus-Portal](https://github.com/Rishi-212005/InternConnect-Campus-Portal)
+> **Full-Stack placement and internship automation platform for college campuses.**
+- **Tech Stack**: React · TypeScript · Tailwind CSS · Supabase · PostgreSQL
+- **Key Features**: Student profiles builder, active company listing pages, recruiter application tracking, and an admin workspace dashboard.
+
+### 2. 🎓 [ACADEMIC-AUTHENTICATOR](https://github.com/Rishi-212005/ACADEMIC-AUTHENTICATOR)
+> **Colleges marks memo validator for verification of credentials by recruitment teams.**
+- **Tech Stack**: PHP · MySQL · HTML5 · CSS3 · Apache
+- **Key Features**: Authenticates academic scores memo records to prevent background verification forgery and establish trust between institutions and companies.
+
+### 3. 🤖 [AI-Portfolio-Maker](https://github.com/Rishi-212005/AI-Portfolio-Maker)
+> **An AI-powered generator that creates dynamic portfolios based on user requirements.**
+- **Tech Stack**: React · TypeScript · Tailwind CSS · LLM APIs
+- **Key Features**: Auto-generates responsive portfolio designs, imports custom styling themes, and deploys clean interfaces on-the-fly.
+
+### 4. 📈 [ML-Smart-Price-Prediction](https://github.com/Rishi-212005/ML-Smart-Price-Prediction)
+> **Machine Learning predictive model designed to forecast market values based on data metrics.**
+- **Tech Stack**: Python · Scikit-learn · Pandas · NumPy · Jupyter Notebook
+- **Key Features**: Advanced preprocessing pipelines, feature engineering, regression modeling, and price predictions.
+
+### 🏫 [open-elective-management-system](https://github.com/Rishi-212005/open-elective-management-system)
+> **Centralized college system helping students choose and assign open electives dynamically.**
+- **Tech Stack**: React · TypeScript · CSS · SQLite
+- **Key Features**: Prevents choice conflicts, respects department capacity ceilings, and automates course registration workflows.
+
+---
+
+## 📁 Repository Directory
+*Below is a complete index of my public repositories on GitHub:*
+
+| Repository | Primary Language | Description |
+| :--- | :---: | :--- |
+| 💻 [InternConnect-Campus-Portal](https://github.com/Rishi-212005/InternConnect-Campus-Portal) | TypeScript | Full-Stack Campus Placement & Internship Automation Platform. |
+| 🛡️ [ACADEMIC-AUTHENTICATOR](https://github.com/Rishi-212005/ACADEMIC-AUTHENTICATOR) | PHP | Secure marks memo background validator system. |
+| 🤖 [AI-Portfolio-Maker](https://github.com/Rishi-212005/AI-Portfolio-Maker) | TypeScript | Dynamic AI-driven interactive portfolio builder. |
+| 📈 [ML-Smart-Price-Prediction](https://github.com/Rishi-212005/ML-Smart-Price-Prediction) | Python | Machine Learning model predicting smart property/product prices. |
+| 🏫 [open-elective-management-system](https://github.com/Rishi-212005/open-elective-management-system) | TypeScript | Institutional management portal for student open electives. |
+| 🌐 [SaralVidhya_website](https://github.com/Rishi-212005/SaralVidhya_website) | TypeScript | Corporate frontend and platform representation for Saral Vidhya. |
+| 🛠️ [SaralLabs_task_round_2](https://github.com/Rishi-212005/SaralLabs_task_round_2) | Jupyter Notebook | Machine learning evaluations and algorithms task suite. |
+| 📝 [INTERNSHIP_TASK](https://github.com/Rishi-212005/INTERNSHIP_TASK) | JavaScript | Suite of scripts, tasks, and widgets built during initial training. |
+| ⏰ [TimeLine-GPT](https://github.com/Rishi-212005/TimeLine-GPT) | CSS | GPT-assisted interactive timeline visualizer. |
+| 🤝 [NGO-PROJECT](https://github.com/Rishi-212005/NGO-PROJECT) | TypeScript | Management platform for NGO charity campaigns and donations. |
+| 🎓 [JNTUA-STUDENTS-CONNECT](https://github.com/Rishi-212005/JNTUA-STUDENTS-CONNECT) | TypeScript | Community and academic networking portal for JNTUA students. |
+| 📋 [Elective-system-](https://github.com/Rishi-212005/Elective-system-) | TypeScript | Automated elective selections and algorithms. |
+| 🏆 [hackthon](https://github.com/Rishi-212005/hackthon) | TypeScript | Hackathon prototype project built dynamically under 24 hours. |
+| 💼 [Personel-Portfolio](https://github.com/Rishi-212005/Personel-Portfolio) | TypeScript | Source code for my portfolio website. |
+| 📚 [Library-Seat-Management-System](https://github.com/Rishi-212005/Library-Seat-Management-System) | PHP | Seat bookings and slots management for libraries. |
+| 🔐 [ENCODING-DECODING-MANAGEMENT-SYSTEM](https://github.com/Rishi-212005/ENCODING-DECODING-MANAGEMENT-SYSTEM) | PHP | Cryptographic text encrypter and security dashboard. |
+| 🛒 [AI-POWERED-SHOPKEEPER-VENDOR-MANAGEMENT-SYSTEM](https://github.com/Rishi-212005/AI-POWERED-SHOPKEEPER-VENDOR-MANAGEMENT-SYSTEM) | PHP | Vendor management portal with smart logs. |
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- include_all_commits=true displays total lifetime commits instead of just rolling year -->
-<img src="https://github-readme-stats.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&count_private=true&show_icons=true&include_all_commits=true" width="48%" alt="Rishi Stats" />
+<!-- Custom Verified Badges -->
+<img src="https://img.shields.io/badge/Total_Contributions-311-2k--green?style=for-the-badge&logo=github" />
 &nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-212005&theme=react-dark&hide_border=true&area=true" width="48%" alt="Rishi Activity Graph" />
+<img src="https://img.shields.io/badge/Merged_PRs-5+-blue?style=for-the-badge&logo=git-pull-request" />
+&nbsp;
+<img src="https://img.shields.io/badge/Repositories-18-orange?style=for-the-badge&logo=git" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&count_private=true&show_icons=true" width="48%" />
+&nbsp;
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-212005&theme=react-dark&hide_border=true&area=true" width="48%" />
 
 </div>
 
