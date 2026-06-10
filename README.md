@@ -8,9 +8,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairishikumar.2005@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lucky_rishi_42?igsh=MXIxbmF1bzV2YTB3bA==)
 
-<!-- Displaying your actual verified contributions count -->
-[![GitHub Contributions](https://img.shields.io/badge/GitHub_Contributions-311_Total-2k--green?style=for-the-badge&logo=github)](https://github.com/Rishi-212005)
-
 ---
 
 "Converting complex real-world workflows into clean, structured, and production-ready applications."
@@ -128,6 +125,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+<!-- Custom Verified Badges -->
+<img src="https://img.shields.io/badge/Total_Contributions-311-2k--green?style=for-the-badge&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/badge/Merged_PRs-5+-blue?style=for-the-badge&logo=git-pull-request" />
+&nbsp;
+<img src="https://img.shields.io/badge/Repositories-18-orange?style=for-the-badge&logo=git" />
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&count_private=true&show_icons=true" width="48%" />
 &nbsp;
