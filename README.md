@@ -109,7 +109,7 @@
 | 🏫 [open-elective-management-system](https://github.com/Rishi-212005/open-elective-management-system) | TypeScript | Institutional management portal for student open electives. |
 | 🌐 [SaralVidhya_website](https://github.com/Rishi-212005/SaralVidhya_website) | TypeScript | Corporate frontend and platform representation for Saral Vidhya. |
 | 🛠️ [SaralLabs_task_round_2](https://github.com/Rishi-212005/SaralLabs_task_round_2) | Jupyter Notebook | Machine learning evaluations and algorithms task suite. |
-| 📝 [INTERNSHIP_TASK](https://github.com/Rishi-212005/INTERNSHIP_TASK) | JavaScript | Suite of scripts, tasks, and widgets built during initial training. |
+| 📝 [INTERNSHIP-TASK](https://github.com/Rishi-212005/INTERNSHIP_TASK) | JavaScript | Suite of scripts, tasks, and widgets built during initial training. |
 | ⏰ [TimeLine-GPT](https://github.com/Rishi-212005/TimeLine-GPT) | CSS | GPT-assisted interactive timeline visualizer. |
 | 🤝 [NGO-PROJECT](https://github.com/Rishi-212005/NGO-PROJECT) | TypeScript | Management platform for NGO charity campaigns and donations. |
 | 🎓 [JNTUA-STUDENTS-CONNECT](https://github.com/Rishi-212005/JNTUA-STUDENTS-CONNECT) | TypeScript | Community and academic networking portal for JNTUA students. |
