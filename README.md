@@ -160,7 +160,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Merged_PRs-10+-blue?style=for-the-badge&logo=git-pull-request" />
 &nbsp;
-<img src="https://img.shields.io/badge/Repositories-18-orange?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Repositories-18+-orange?style=for-the-badge&logo=git" />
 
 <br/><br/>
 
