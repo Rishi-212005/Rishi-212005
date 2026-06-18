@@ -151,7 +151,9 @@
 <div align="center">
 
 <!-- Custom Verified Badges -->
-<img src="https://img.shields.io/badge/Total_Contributions-311-2k--green?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Total_Contributions-531-brightgreen?style=for-the-badge&logo=github" />
+&nbsp;
+<img src="https://img.shields.io/badge/Commits-500%2B-blue?style=for-the-badge&logo=git" />
 &nbsp;
 <img src="https://img.shields.io/badge/Merged_PRs-5+-blue?style=for-the-badge&logo=git-pull-request" />
 &nbsp;
@@ -159,9 +161,9 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&count_private=true&show_icons=true" width="48%" />
+<img src="https://github-readme-stats-rishi.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&cache_seconds=1800" width="48%" />
 &nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-212005&theme=react-dark&hide_border=true&area=true" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-212005&theme=react-dark&hide_border=true&area=true&cache_seconds=1800" width="48%" />
 
 </div>
 
