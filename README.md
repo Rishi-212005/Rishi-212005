@@ -154,13 +154,13 @@
 <div align="center">
 
 <!-- Custom Verified Badges -->
-<img src="https://img.shields.io/badge/Total_Contributions-531-brightgreen?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Total_Contributions-531+-brightgreen?style=for-the-badge&logo=github" />
 &nbsp;
 <img src="https://img.shields.io/badge/Commits-500%2B-blue?style=for-the-badge&logo=git" />
 &nbsp;
-<img src="https://img.shields.io/badge/Merged_PRs-5+-blue?style=for-the-badge&logo=git-pull-request" />
+<img src="https://img.shields.io/badge/Merged_PRs-10+-blue?style=for-the-badge&logo=git-pull-request" />
 &nbsp;
-<img src="https://img.shields.io/badge/Repositories-18-orange?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/Repositories-18+-orange?style=for-the-badge&logo=git" />
 
 <br/><br/>
 
