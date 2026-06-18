@@ -1,7 +1,31 @@
+<!-- HERO BANNER -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Sai%20Rishi%20Kumar%20Vedi&fontSize=36&fontAlign=50&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30" width="100%"/>
+</div>
 
-# Hi, I'm Sai Rishi Kumar Vedi 👋
-### Full-Stack Developer · AI/ML Intern at Saral Vidhya Pvt. Ltd. · Problem Solver
+<!-- TAGLINE -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=13&center=true&vCenter=true&pause=1000&width=900&height=60&lines=Full-Stack+Developer+%7C+AI%2FML+Intern+%7C+Problem+Solver" />
+</div>
+
+<!-- ANIMATED STRIP -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&center=true&vCenter=true&pause=1200&width=700&height=45&color=58A6FF&lines=Building+Scalable+Backends+%26+Pipelines...;Learning+by+Shipping+Real+Ideas...;Converting+workflows+into+clean+code..." />
+</div>
+
+<div align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="32"/>
+  &nbsp;&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=14&center=true&vCenter=true&pause=900&width=360&height=40&lines=commit.to.consistency" />
+  &nbsp;&nbsp;
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" width="32"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://rishi-212005.github.io/Personel-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishi-vedi-37b954351)
