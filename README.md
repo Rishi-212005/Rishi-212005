@@ -48,8 +48,11 @@
 - **RESTful APIs**: Developed robust endpoints in FastAPI/SQLAlchemy for curriculum uploads, answer keys parsing, and metadata synchronization.
 - **Drive Integrations**: Designed dynamic nested file structures and permission schemas in Google Drive synced with local storage backends.
 
-### 🏛️ Former Intern — National Informatics Centre (NIC)
-- Gained hands-on experience in public database workflows, data entry, and government-scale registry frameworks.
+### 🏛️ Web Development Intern — National Informatics Centre (NIC), Anantapur
+*Worked at the Collectorate Office under the guidance of the District Informatics Officer (DIO):*
+- **e-Governance CRUD Platforms**: Developed secure CRUD modules for e-Governance portals using PHP, MySQL, JavaScript, and HTML/CSS.
+- **Stakeholder Authorization**: Implemented role-based authentication schemes to support multiple government user levels securely.
+- **Workflow Efficiency**: Improved administrative operations by designing backend validation rules and custom APIs to automate manual document tracking.
 
 ---
 
