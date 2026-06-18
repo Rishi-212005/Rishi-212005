@@ -149,8 +149,6 @@
 
 ---
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -167,9 +165,9 @@
 <br/><br/>
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-rishi.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-rishi.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&cache_seconds=1800" width="48%" />
   &nbsp;
-  <img height="195" src="https://github-readme-stats-rishi.vercel.app/api/top-langs?username=Rishi-212005&theme=dark&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800" />
+  <img src="https://github-readme-stats-rishi.vercel.app/api/top-langs?username=Rishi-212005&theme=dark&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
@@ -177,9 +175,6 @@
 </p>
 
 </div>
-
----
-
 
 ---
 
