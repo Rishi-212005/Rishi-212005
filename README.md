@@ -42,7 +42,7 @@
 
 ## 💼 Work & Internship Updates
 
-### 🚀 AI/ML Intern — Saral Vidhya Pvt. Ltd., Hyderabad
+### 🧠 AI/ML Intern — Saral Vidhya Pvt. Ltd., Hyderabad
 *Currently working on backend architecture, database optimizations, and intelligent document data pipelines:*
 - **Background OCR Pipelines**: Designed asynchronous background workers to parse and OCR multi-page PDF/ZIP archives (images) using Google Cloud Vision and natural sorting pipelines.
 - **RESTful APIs**: Developed robust endpoints in FastAPI/SQLAlchemy for curriculum uploads, answer keys parsing, and metadata synchronization.
@@ -158,15 +158,21 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Commits-500%2B-blue?style=for-the-badge&logo=git" />
 &nbsp;
-<img src="https://img.shields.io/badge/Merged_PRs-10+-blue?style=for-the-badge&logo=git-pull-request" />
+<img src="https://img.shields.io/badge/Merged_PRs-5+-blue?style=for-the-badge&logo=git-pull-request" />
 &nbsp;
 <img src="https://img.shields.io/badge/Repositories-18-orange?style=for-the-badge&logo=git" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-rishi.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&cache_seconds=1800" width="48%" />
-&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-212005&theme=react-dark&hide_border=true&area=true&cache_seconds=1800" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats-rishi.vercel.app/api?username=Rishi-212005&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&cache_seconds=1800" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats-rishi.vercel.app/api/top-langs?username=Rishi-212005&theme=dark&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishi-212005&theme=react-dark&hide_border=true&area=true&cache_seconds=1800" width="97%" />
+</p>
 
 </div>
 
